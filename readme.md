@@ -24,7 +24,7 @@
 | 20 | Sprinklr | 30 | | https://leetcode.com/discuss/compensation/1291969/sprinklr-product-engineer-sde-1 |
 | 21 | Alphonso | 35 | | https://leetcode.com/discuss/compensation/1272550/alphonso-data-scientist-banglore |
 | 22 | Goldman Sach | 25 | | https://leetcode.com/discuss/compensation/1678229/goldman-sachs-new-analyst-bangalore |
-| 23 | Graviton Research | 28 | https://leetcode.com/discuss/compensation/1161345/graviton-research-software-engineer-gurgaon |
+| 23 | Graviton Research | 28 | | https://leetcode.com/discuss/compensation/1161345/graviton-research-software-engineer-gurgaon |
 | 24 | Quadeye Sec | 20-60 | | https://leetcode.com/discuss/compensation/1936994/quadeye-vs-gojek |
 | 25 | Gojek | 28 | | https://leetcode.com/discuss/compensation/1936994/quadeye-vs-gojek |
 | 26 | Alphagrep sec | 20+ | | |
