@@ -32,3 +32,4 @@
 | 28 | Optiver | 58+ | | https://leetcode.com/discuss/compensation/869001/optiver-fte-netherlands |
 | 29 | NK securities | 72 | | https://leetcode.com/discuss/compensation/1701569/nk-securities-research-c-developer |
 | 30 | Urban Company | 22 | | https://leetcode.com/discuss/compensation/1254915/urban-company-sde-1-gurugram |
+| 31 | Zepto | 25+ | | https://leetcode.com/discuss/compensation/1746627/zepto-bengaluru-software-engineer-backend |
